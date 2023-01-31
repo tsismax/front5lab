@@ -1,0 +1,114 @@
+.blogtitle{
+    padding: 30px 0 30px 0;
+    margin: 0px 0 20px 0;
+    text-align: center;
+    color:rgb(66, 0, 128);
+    font-size: 40px;
+}
+
+body{
+    background: rgb(230,103,175);
+    background: radial-gradient(circle, rgba(230,103,175,1) 0%, rgba(153,38,103,1) 50%, rgba(230,103,175,1) 100%);
+}
+.menylinks{
+    background: rgb(244, 30, 255);
+    width: 100%;
+}
+.listoflinks{
+    background: rgb(186, 42, 253);
+    display: flex;
+    font-size: 25px;
+    font-weight: 500;
+   
+    line-height: 35px;
+    margin: 10px 37% 50px ;
+   
+   
+    
+    text-align: center;
+
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border: 1px solid #777;
+}
+
+.listoflinks li{
+    padding: 0 0px 0 0px;
+    box-shadow:1px 1px 20px  rgb(95, 0, 90);
+    text-align: center;
+    width: 600px;
+    height: 50px;
+
+}
+.listoflinks li:hover{
+    background: rgb(0, 116, 217);
+    box-shadow:1px 1px 20px  rgb(57, 252, 255);
+}
+
+.myheader{
+    padding: 30px 0 30px 0;
+    margin: 0px 0 20px 0;
+    text-align: center;
+    color:rgb(66, 0, 128);
+    font-size: 35px;
+}
+.pimg{
+    box-shadow: 2px 2px 30px rgb(0, 0, 0);
+    width: 300px;
+    height: 300px;
+    margin: 10px 43% 50px ;
+}
+.simplimage{
+    box-shadow: 2px 2px 30px rgb(0, 0, 0);
+    width: 300px;
+    height: 300px;
+    margin: 10px 40% 50px ;   
+}
+.photos{
+    box-shadow: 2px 2px 30px rgb(0, 0, 0);
+    width: 300px;
+    height: 300px;
+    margin: 10px 34% 50px ;   
+}
+.simpletext{
+    padding: 20px 0 20px 0;
+    text-align: center;
+    color:rgb(66, 0, 128);
+    font-size: 30px;
+}
+.info{
+    display: block;
+    padding: 20px 20px 20px 0px;
+    text-align: right;
+    color:rgb(66, 0, 128);
+    font-size: 30px;
+}
+.simplelist li{
+    padding: 20px 0 20px 0;
+    text-shadow: 2px 2px 3px rgb(3, 190, 196);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;
+    color:rgb(66, 0, 128);
+    text-align: center;
+}
+.tables{
+    padding: 10px 0px 10px 00px;
+    color: rgb(0, 112, 182);
+  text-shadow: 1px 1px 1px black;
+}
+table{
+    font-size: 30px;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 5px solid purple;
+}
+tr{
+    border:2px solid rgb(56, 0, 56);
+}
+td{
+    border:2px solid rgb(56, 0, 56);
+}
